@@ -1,0 +1,15 @@
+{
+  "name": "dumpsite",
+  "version": "0.0.0",
+  "description": "dumps a site to disk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "carl kenne",
+  "license": "ISC",
+  "devDependencies": {
+    "request-promise": "~0.3.1",
+    "rimraf": "~2.2.8"
+  }
+}
